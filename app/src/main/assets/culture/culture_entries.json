@@ -1,0 +1,1583 @@
+{
+  "schemaVersion": "wildflower-culture-v2",
+  "asOf": "2026-10-09",
+  "description": "50条植物文化卡片工作数据库：17条之前的外部双来源审查稿，加33条新撰文字。新撰条目中标注了诗文已检索和未核实的区别；古典文化泛称不自动当作现代植物学种级认定。",
+  "releasePolicy": "项目负责人批准全部50条进入正式阅读内容池；保留17/23/10核验分类和原文。物种关联待核的文献作为文化泛称导读；模型草稿仅作为待核文化笔记，不作为古典文献或历史事实。诗笺古典引文仍需满足文献来源和物种适配条件。",
+  "publicationApproval": { "authority": "project_owner", "scope": "all_50_reading_entries", "verificationUnchanged": true },
+  "entryCount": 50,
+  "reviewQueueCount": 16,
+  "countsByVerificationStatus": {
+    "source_checked": 17,
+    "literary_source_checked_taxon_pending": 23,
+    "model_draft_unverified": 10
+  },
+  "entries": [
+    {
+      "speciesKey": "scientific:osmanthus fragrans",
+      "scientificName": "Osmanthus fragrans",
+      "chineseName": "桂花",
+      "themeTitle": "清芬与中秋",
+      "culturalDescription": "李清照不以鲜艳颜色评价桂花，而突出它含蓄的色泽与悠长香气。作品又将桂花置于中秋时节，表现出一种不靠浓妆夺目的审美。",
+      "culturalSymbolism": [
+        "清芬",
+        "中秋"
+      ],
+      "literaryWorks": [
+        {
+          "author": "李清照",
+          "title": "鹧鸪天·桂",
+          "excerpt": "暗淡轻黄体性柔",
+          "sourceUrl": "https://zh.wikisource.org/wiki/鷓鴣天_(李清照)",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A610878-1"
+      },
+      "matchNote": "词作明确题为咏桂；以现代园艺桂花解释较合理，但古典用词与具体品种不一一对应。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:prunus mume",
+      "scientificName": "Prunus mume",
+      "chineseName": "梅花",
+      "themeTitle": "清逸与寒香",
+      "culturalDescription": "林逋以水边疏枝和月下幽香写梅，不靠热闹繁花取胜。这种含蓄的景物描写，使梅在后世阅读中常被联系到清雅、孤高的审美趣味。",
+      "culturalSymbolism": [
+        "清逸",
+        "寒香"
+      ],
+      "literaryWorks": [
+        {
+          "author": "林逋",
+          "title": "山园小梅·其一",
+          "excerpt": "疏影横斜水清浅",
+          "sourceUrl": "https://zh.wikisource.org/wiki/山園小梅_(林逋)",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A730000-1"
+      },
+      "matchNote": "“梅花”在本诗语境明确指观赏梅；具体栽培品种未确定。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:nelumbo nucifera",
+      "scientificName": "Nelumbo nucifera",
+      "chineseName": "荷花",
+      "themeTitle": "君子与自守",
+      "culturalDescription": "周敦颐借莲的生长环境、茎叶姿态和清香描绘自己欣赏的君子品格。这里的“洁净”首先是文学与伦理隐喻，不是植物具有道德属性。",
+      "culturalSymbolism": [
+        "君子",
+        "自守"
+      ],
+      "literaryWorks": [
+        {
+          "author": "周敦颐",
+          "title": "爱莲说",
+          "excerpt": "出淤泥而不染",
+          "sourceUrl": "https://zh.wikisource.org/wiki/愛蓮說",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A605422-1"
+      },
+      "matchNote": "文中莲为传统荷莲意象，与亚洲荷花对应度较高。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:prunus persica",
+      "scientificName": "Prunus persica",
+      "chineseName": "桃花",
+      "themeTitle": "迟开的春天",
+      "culturalDescription": "白居易写山寺桃花比平地开得晚，借时间错位表达寻春的惊喜。作品将桃花与节候变化相连，很适合搭配用户记录的不同地点和日期。",
+      "culturalSymbolism": [
+        "迟开的春天"
+      ],
+      "literaryWorks": [
+        {
+          "author": "白居易",
+          "title": "大林寺桃花",
+          "excerpt": "山寺桃花始盛开",
+          "sourceUrl": "https://zh.wikisource.org/wiki/大林寺桃花",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/1212858-2"
+      },
+      "matchNote": "诗作以桃花为明确对象；不指向特定桃树园艺品种。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:punica granatum",
+      "scientificName": "Punica granatum",
+      "chineseName": "石榴",
+      "themeTitle": "繁花与累实",
+      "culturalDescription": "李商隐同时写石榴枝条的姿态和果实的繁盛，又用榴膜、榴子等细节展示观赏与物候之美。这里主要是咏物，不宜擅自添加原诗没有表达的“多子多福”解读。",
+      "culturalSymbolism": [
+        "繁花",
+        "累实"
+      ],
+      "literaryWorks": [
+        {
+          "author": "李商隐",
+          "title": "石榴",
+          "excerpt": "榴枝婀娜榴实繁",
+          "sourceUrl": "https://zh.wikisource.org/wiki/石榴",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/554129-1"
+      },
+      "matchNote": "诗题和植物名称直接对应石榴。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:ginkgo biloba",
+      "scientificName": "Ginkgo biloba",
+      "chineseName": "银杏",
+      "themeTitle": "赠答与珍重",
+      "culturalDescription": "欧阳修记述“鸭脚”果实由江南传至京师，并写到朋友分赠的情谊。它既是植物记录，也是北宋士人通过馈赠交流地方风物的见证。",
+      "culturalSymbolism": [
+        "赠答",
+        "珍重"
+      ],
+      "literaryWorks": [
+        {
+          "author": "欧阳修",
+          "title": "和圣俞李侯家鸭脚子",
+          "excerpt": "鸭脚生江南",
+          "sourceUrl": "https://zh.wikisource.org/wiki/歐陽修集/卷007",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A262125-1"
+      },
+      "matchNote": "文本直接出现“银杏”，且“鸭脚”为该植物旧称，匹配依据较明确。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:gardenia jasminoides",
+      "scientificName": "Gardenia jasminoides",
+      "chineseName": "栀子",
+      "themeTitle": "不张扬的枝叶",
+      "culturalDescription": "杜甫以栀子和其他树木比较，细写其枝柯、果实与雨露中的色彩。与其赋予单一固定花语，更适合从诗中的自然观察出发介绍这种植物。",
+      "culturalSymbolism": [
+        "不张扬的枝叶"
+      ],
+      "literaryWorks": [
+        {
+          "author": "杜甫",
+          "title": "栀子",
+          "excerpt": "栀子比众木",
+          "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷038",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A751073-1"
+      },
+      "matchNote": "诗名直接为“栀子”；现代栀子指代的栽培型可能不同。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:chimonanthus praecox",
+      "scientificName": "Chimonanthus praecox",
+      "chineseName": "蜡梅",
+      "themeTitle": "寒时的幽香",
+      "culturalDescription": "黄庭坚写蜡梅金黄的花蕾在寒气中含而未展，重心不在艳丽，而在冷季里蕴藏的香气与生机。蜡梅并非蔷薇科的梅，文化名称相近，植物分类却不同。",
+      "culturalSymbolism": [
+        "寒时的幽香"
+      ],
+      "literaryWorks": [
+        {
+          "author": "黄庭坚",
+          "title": "咏蜡梅二首·其一",
+          "excerpt": "金蓓锁春寒",
+          "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷041",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/139248-1"
+      },
+      "matchNote": "诗题明确“蜡梅”；文化说明需特别区分蜡梅与梅。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:prunus armeniaca",
+      "scientificName": "Prunus armeniaca",
+      "chineseName": "杏花",
+      "themeTitle": "春色与水影",
+      "culturalDescription": "王安石笔下的杏花与空旷的石梁、茅屋及清澈水景相映。它不是抽象的春天符号，而是一幅有环境、光影和观察位置的春日图景。",
+      "culturalSymbolism": [
+        "春色",
+        "水影"
+      ],
+      "literaryWorks": [
+        {
+          "author": "王安石",
+          "title": "杏花",
+          "excerpt": "茅屋临清炯",
+          "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷025",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/729463-1"
+      },
+      "matchNote": "诗题明确杏花；对应常见栽培杏，无法确认具体品种。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:lagerstroemia indica",
+      "scientificName": "Lagerstroemia indica",
+      "chineseName": "紫薇",
+      "themeTitle": "秋露与长夏",
+      "culturalDescription": "杜牧描写紫薇在秋露中仍有新花，反衬桃李盛春时的热闹。与短暂的春花相比，紫薇在诗中呈现从容而不争早春的气质。",
+      "culturalSymbolism": [
+        "秋露",
+        "长夏"
+      ],
+      "literaryWorks": [
+        {
+          "author": "杜牧",
+          "title": "紫薇花",
+          "excerpt": "晓迎秋露一枝新",
+          "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷038",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A553576-1"
+      },
+      "matchNote": "古籍明确题为“紫薇花”；与现代常见紫薇对应。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:camellia sinensis",
+      "scientificName": "Camellia sinensis",
+      "chineseName": "茶树",
+      "themeTitle": "采制与日常文化",
+      "culturalDescription": "陆羽从茶树的形态、产地和采制条件写起，把茶作为需要观察、辨别与加工的植物材料。茶文化并不只是一杯饮品，也包含关于自然环境和制作技艺的系统知识。",
+      "culturalSymbolism": [
+        "采制",
+        "日常文化"
+      ],
+      "literaryWorks": [
+        {
+          "author": "陆羽",
+          "title": "茶经·卷上·一之源",
+          "excerpt": "茶者，南方之嘉木也",
+          "sourceUrl": "https://zh.wikisource.org/wiki/茶經/一之源",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/828548-1"
+      },
+      "matchNote": "此项使用古代茶学著作而非诗词；“茶”是茶树及其加工品的文化概念。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:litchi chinensis",
+      "scientificName": "Litchi chinensis",
+      "chineseName": "荔枝",
+      "themeTitle": "岭南风物",
+      "culturalDescription": "苏轼在惠州写荔枝，与罗浮山一带的其他果品一同呈现南方物产。夸张的“日啖”表达喜爱，也使荔枝成为诗人记忆岭南生活的重要线索。",
+      "culturalSymbolism": [
+        "岭南风物"
+      ],
+      "literaryWorks": [
+        {
+          "author": "苏轼",
+          "title": "食荔支二首·其二",
+          "excerpt": "日啖荔支三百颗",
+          "sourceUrl": "https://zh.wikisource.org/wiki/食荔支二首（並引）",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A783539-1"
+      },
+      "matchNote": "诗题与荔支果实直接对应，原文存在异文，采用所引版本。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:ziziphus jujuba",
+      "scientificName": "Ziziphus jujuba",
+      "chineseName": "枣树",
+      "themeTitle": "庭院与少年记忆",
+      "culturalDescription": "杜甫回忆少年时在庭院攀树摘果的生活，把成熟的梨枣与少年矫健的身影连在一起。枣在这里是具体的家常植物，也是回望往事的媒介。",
+      "culturalSymbolism": [
+        "庭院",
+        "少年记忆"
+      ],
+      "literaryWorks": [
+        {
+          "author": "杜甫",
+          "title": "百忧集行",
+          "excerpt": "庭前八月梨枣熟",
+          "sourceUrl": "https://zh.wikisource.org/wiki/全唐詩/卷219",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/719213-1"
+      },
+      "matchNote": "诗中的“枣”可对应常见枣树；果树品种不可确认。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:jasminum sambac",
+      "scientificName": "Jasminum sambac",
+      "chineseName": "茉莉",
+      "themeTitle": "清芬与夏夜",
+      "culturalDescription": "杨万里把茉莉写成在群芳之后仍以香气见长的花。诗中的采折、送花和寻诗情境，让茉莉的幽香与人与人之间的交往联系起来。",
+      "culturalSymbolism": [
+        "清芬",
+        "夏夜"
+      ],
+      "literaryWorks": [
+        {
+          "author": "杨万里",
+          "title": "茉莉花（见广群芳谱）",
+          "excerpt": "茉莉独立更幽佳",
+          "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷043",
+          "sourceType": "primary_text_or_historical_anthology"
+        }
+      ],
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A609755-1/general-information"
+      },
+      "matchNote": "诗称“茉莉”；现代常见茉莉通常为 Jasminum sambac，园艺品种未明。",
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:hibiscus syriacus",
+      "scientificName": "Hibiscus syriacus",
+      "chineseName": "木槿",
+      "themeTitle": "朝开暮落与光阴",
+      "culturalDescription": "李渔在《闲情偶寄》中从木槿早开晚落的特点谈及人生时间。文章并不把短暂开放看作植物的缺陷，而是借花期与人的生命作对照，提醒读者珍惜有限的日子。",
+      "culturalSymbolism": [
+        "朝暮",
+        "光阴"
+      ],
+      "literaryWorks": [
+        {
+          "author": "李渔",
+          "title": "闲情偶寄·种植部·木本第一·木槿",
+          "excerpt": "木槿朝开而暮落",
+          "sourceUrl": "https://zh.wikisource.org/wiki/閑情偶寄/種植部/木本第一",
+          "sourceType": "historical_prose"
+        }
+      ],
+      "matchNote": "文献明确以“木槿”为标题；不代表任何朱槿等近似俗名都属于本种。",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A560890-1"
+      },
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:hibiscus mutabilis",
+      "scientificName": "Hibiscus mutabilis",
+      "chineseName": "木芙蓉",
+      "themeTitle": "拒霜与秋华",
+      "culturalDescription": "《本草纲目》解释木芙蓉又称木莲，花形似荷，却是陆生木本植物。古人以“拒霜”称它，突出秋季仍见花开的特点。不能把“木芙蓉”的诗文直接嫁接到水生荷花上。",
+      "culturalSymbolism": [
+        "秋华",
+        "拒霜"
+      ],
+      "literaryWorks": [
+        {
+          "author": "李时珍",
+          "title": "本草纲目·木之三·木芙蓉",
+          "excerpt": "此花艳如荷花",
+          "sourceUrl": "https://zh.wikisource.org/wiki/本草綱目/木之三",
+          "sourceType": "historical_plant_text"
+        }
+      ],
+      "matchNote": "历史“木芙蓉”与“水芙蓉”存在明确区分。",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A560549-1"
+      },
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:eriobotrya japonica",
+      "scientificName": "Eriobotrya japonica",
+      "chineseName": "枇杷",
+      "themeTitle": "冬花与夏果",
+      "culturalDescription": "宋祁咏枇杷时写它冒早寒开花，并以金黄色的果实比喻累累枝头。与多数春花秋果的果树相比，枇杷的物候独具特色，因此适合加入四季观察手账。",
+      "culturalSymbolism": [
+        "时令",
+        "果实"
+      ],
+      "literaryWorks": [
+        {
+          "author": "宋祁",
+          "title": "枇杷",
+          "excerpt": "有果产西蜀，作花凌早寒",
+          "sourceUrl": "https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/草木典/第278卷",
+          "sourceType": "historical_anthology"
+        }
+      ],
+      "matchNote": "作品明确题为枇杷，近现代中文“枇杷”主指本种；不同栽培品种不作区分。",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/724793-1"
+      },
+      "verificationStatus": "source_checked",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": true,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "原文短摘 + 基于文献的原创说明",
+      "imageAsset": null,
+      "contentOrigin": "prior_source_checked_editorial_draft",
+      "safeForAutomaticSpeciesMatch": true,
+      "citationScope": "see_matchNote"
+    },
+    {
+      "speciesKey": "scientific:rosa chinensis",
+      "scientificName": "Rosa chinensis",
+      "chineseName": "月季",
+      "themeTitle": "月月有新红",
+      "culturalDescription": "月季因一茬花谢后仍能继续开花，常被赋予长久与不息的意味。杨万里的咏月季诗关注的正是它不局限于短暂花期的特点。古代“月季”包含多种栽培花型，不能用诗句反向鉴定现代单一物种。",
+      "culturalSymbolism": [
+        "长久",
+        "常新"
+      ],
+      "literaryWorks": [
+        {
+          "author": "杨万里",
+          "title": "月季花",
+          "excerpt": "只道花无十日红",
+          "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷043",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "文化“月季”为栽培类群；Rosa chinensis 是供目录检索的代表现代种，不等同于古诗中唯一物种。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:firmiana simplex",
+      "scientificName": "Firmiana simplex",
+      "chineseName": "梧桐",
+      "themeTitle": "一叶一秋声",
+      "culturalDescription": "李清照把梧桐与细雨放在黄昏的声音里，让落叶和雨点成为愁绪的外在节奏。今天的庭院梧桐仍容易唤起秋天的记忆；但古代“桐”与“梧桐”名称的用法不完全一致，作品无法替一张照片提供分类学鉴定。",
+      "culturalSymbolism": [
+        "秋声",
+        "离愁"
+      ],
+      "literaryWorks": [
+        {
+          "author": "李清照",
+          "title": "声声慢·秋情",
+          "excerpt": "梧桐更兼细雨",
+          "sourceUrl": "https://zh.wikisource.org/wiki/聲聲慢_(李清照)",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "原词写梧桐意象；具体对应 Firmiana simplex 尚需古今植物名称考证。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:chrysanthemum × morifolium",
+      "scientificName": "Chrysanthemum × morifolium",
+      "chineseName": "菊花",
+      "themeTitle": "东篱与自得",
+      "culturalDescription": "陶渊明写“采菊”时，将日常动作与远山景色并置，传达从容自守的心境。后世重阳赏菊又增添节令意味。园艺菊存在复杂栽培谱系，这张卡片记录的是文化中的菊花，而不把古诗限定为一种现代栽培品系。",
+      "culturalSymbolism": [
+        "东篱",
+        "重阳"
+      ],
+      "literaryWorks": [
+        {
+          "author": "陶渊明",
+          "title": "饮酒二十首·其五",
+          "excerpt": "采菊东篱下",
+          "sourceUrl": "https://zh.wikisource.org/wiki/飲酒二十首",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古典菊花是栽培群概念，不能据文献唯一确定现代园艺杂交种。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:salix babylonica",
+      "scientificName": "Salix babylonica",
+      "chineseName": "垂柳",
+      "themeTitle": "春风的丝线",
+      "culturalDescription": "贺知章将柳条想象成柔软的绿丝带，把早春新叶写得轻盈而有动感。传统诗词里的折柳也常被用于送别。柳属物种众多，诗中的“柳”属于文化泛称，不应据此判定镜头里的柳树一定是垂柳。",
+      "culturalSymbolism": [
+        "新春",
+        "送别"
+      ],
+      "literaryWorks": [
+        {
+          "author": "贺知章",
+          "title": "咏柳",
+          "excerpt": "万条垂下绿丝绦",
+          "sourceUrl": "https://zh.wikisource.org/wiki/詠柳_(賀知章)",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "“柳”不提供种级鉴别特征；候选垂柳仅为现代园林常见代表。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:phyllostachys edulis",
+      "scientificName": "Phyllostachys edulis",
+      "chineseName": "毛竹",
+      "themeTitle": "节节有骨",
+      "culturalDescription": "郑燮在《竹石》中借竹子立根岩石的形象写坚韧，并没有要描述一个特定竹种。竹的中空、节节相接，也让它成为书画中常见的君子意象。毛竹可以作为常见竹类观察对象，但经典竹意象覆盖许多竹种。",
+      "culturalSymbolism": [
+        "坚韧",
+        "虚心"
+      ],
+      "literaryWorks": [
+        {
+          "author": "郑燮",
+          "title": "竹石",
+          "excerpt": "咬定青山不放松",
+          "sourceUrl": "https://zh.wikisource.org/wiki/竹石",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "诗中之竹为竹类总称，并不能精确指认毛竹。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:paeonia suffruticosa",
+      "scientificName": "Paeonia suffruticosa",
+      "chineseName": "牡丹",
+      "themeTitle": "花开动京城",
+      "culturalDescription": "刘禹锡用“花开时节动京城”写出了唐人观赏牡丹的热闹情景，牡丹也因此常被联想到盛大、繁华的城市春景。古代牡丹园艺形态多样，诗篇可证明其观赏文化，却无法区分今天复杂的栽培谱系。",
+      "culturalSymbolism": [
+        "繁华",
+        "春宴"
+      ],
+      "literaryWorks": [
+        {
+          "author": "刘禹锡",
+          "title": "赏牡丹",
+          "excerpt": "唯有牡丹真国色",
+          "sourceUrl": "https://zh.wikisource.org/wiki/賞牡丹_—(劉禹錫)",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "文学牡丹可能包括不同栽培品种，P. suffruticosa 是代表种级入口。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:malus spectabilis",
+      "scientificName": "Malus spectabilis",
+      "chineseName": "海棠花",
+      "themeTitle": "夜里也要留住春光",
+      "culturalDescription": "苏轼《海棠》写夜色中的花影，以燃烛照花的想象表达惜花之情。海棠自宋以来常见于园林题咏，但“海棠”可以泛指多种苹果属观赏花木；具体的海棠品种仍须由形态和分类资料确定。",
+      "culturalSymbolism": [
+        "惜花",
+        "春夜"
+      ],
+      "literaryWorks": [
+        {
+          "author": "苏轼",
+          "title": "海棠",
+          "excerpt": "只恐夜深花睡去",
+          "sourceUrl": "https://zh.wikisource.org/wiki/海棠譜/卷下",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古典海棠并不能唯一对应 Malus spectabilis。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:cymbidium goeringii",
+      "scientificName": "Cymbidium goeringii",
+      "chineseName": "春兰",
+      "themeTitle": "幽谷里的清芬",
+      "culturalDescription": "兰在传统诗书画中常与幽芳、修养和高洁相连。春兰细长的叶片和淡雅的花型，很适合做观察手账的主角；然而古文中的“兰”可能指香草、兰科植物或更宽泛的芳草，不能将所有古典兰意象都精确归于春兰。",
+      "culturalSymbolism": [
+        "幽芳",
+        "修养"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "古典“兰”指代复杂；此为现代春兰的文化导览草稿，不附冒充原文的诗句。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:rhododendron simsii",
+      "scientificName": "Rhododendron simsii",
+      "chineseName": "映山红",
+      "themeTitle": "满山春色",
+      "culturalDescription": "杜鹃花盛开时常在山坡形成醒目的成片颜色，“映山红”因而与山野春日相连。它在民歌、地域记忆中也经常出现；但杜鹃属物种众多，不宜把任何写到“杜鹃”的古诗都判定为这种红花植物，因为“杜鹃”还可能指鸟。",
+      "culturalSymbolism": [
+        "山野",
+        "春色"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "“杜鹃”兼为鸟名，花名亦涵盖多个杜鹃属种；需核对具体植物学指向。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:paeonia lactiflora",
+      "scientificName": "Paeonia lactiflora",
+      "chineseName": "芍药",
+      "themeTitle": "赠别的花",
+      "culturalDescription": "《诗经·溱洧》写青年男女临水相会，末尾以相赠芍药收束。后世常把芍药与赠答、惜别联系起来。不过先秦“勺药”的名物解释有争议，不可据此把《诗经》里的植物强行确定为今天的某一种栽培芍药。",
+      "culturalSymbolism": [
+        "赠答",
+        "惜别"
+      ],
+      "literaryWorks": [
+        {
+          "author": "佚名",
+          "title": "诗经·郑风·溱洧",
+          "excerpt": "赠之以勺药",
+          "sourceUrl": "https://zh.wikisource.org/wiki/詩經/溱洧",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古“勺药”指代与植物学种名仍需考证；不能唯一确定 P. lactiflora。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:hemerocallis fulva",
+      "scientificName": "Hemerocallis fulva",
+      "chineseName": "萱草",
+      "themeTitle": "北堂与思亲",
+      "culturalDescription": "王冕《墨萱图》以北堂下盛开的萱草引出慈母倚门、游子思归的情境，使萱草在后世常承载思母与亲情的意味。园艺萱草有许多种和杂交类型，文学中的萱草不能自动用于鉴定特定物种。",
+      "culturalSymbolism": [
+        "思亲",
+        "忘忧"
+      ],
+      "literaryWorks": [
+        {
+          "author": "王冕",
+          "title": "墨萱图·其一",
+          "excerpt": "灿灿萱草花",
+          "sourceUrl": "https://www.gushiwen.cn/gushiwen_07814b333d.aspx",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "原诗中的萱草可泛指萱草属及相关栽培群。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:pyrus pyrifolia",
+      "scientificName": "Pyrus pyrifolia",
+      "chineseName": "梨树",
+      "themeTitle": "雪与花的互喻",
+      "culturalDescription": "岑参把塞外一夜飞雪比作万树梨花骤开，妙处正在于白色花景与雪景之间的想象转换。它是一种文学比喻，不是关于某株梨树的真实观测；常见梨树物种很多，诗句也无法用来区分它们。",
+      "culturalSymbolism": [
+        "春雪",
+        "清白"
+      ],
+      "literaryWorks": [
+        {
+          "author": "岑参",
+          "title": "白雪歌送武判官归京",
+          "excerpt": "千树万树梨花开",
+          "sourceUrl": "https://zh.wikisource.org/wiki/白雪歌送武判官歸京",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "以梨花比雪，非真实梨树记录；不指定 P. pyrifolia。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:narcissus tazetta",
+      "scientificName": "Narcissus tazetta",
+      "chineseName": "中国水仙",
+      "themeTitle": "凌波而来的清姿",
+      "culturalDescription": "黄庭坚以凌波仙子形容水仙，将轻盈姿态与临水清香写得富有想象力。传统水仙文化常见于冬春之交的案头清供。但水仙有品种及亚种之别，古诗中的水仙并不提供足够特征确定现代完整分类单元。",
+      "culturalSymbolism": [
+        "清供",
+        "凌波"
+      ],
+      "literaryWorks": [
+        {
+          "author": "黄庭坚",
+          "title": "王充道送水仙花五十枝",
+          "excerpt": "凌波仙子生尘袜",
+          "sourceUrl": "https://zh.wikisource.org/wiki/御定分類字錦_(四庫全書本)/卷53",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "文学水仙不等于严格种级判断；目录以常见 Narcissus tazetta 广义种为代表。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:phragmites australis",
+      "scientificName": "Phragmites australis",
+      "chineseName": "芦苇",
+      "themeTitle": "蒹葭与水岸",
+      "culturalDescription": "《诗经·蒹葭》用沾着白露的水边植物营造遥望与追寻的意境。现代芦苇常沿河流、湖岸成片生长，是四季摄影很好的素材；但“蒹葭”涉及古代植物名物，不能直接认为诗中描写的每一株都是现代芦苇种。",
+      "culturalSymbolism": [
+        "秋露",
+        "追寻"
+      ],
+      "literaryWorks": [
+        {
+          "author": "佚名",
+          "title": "诗经·秦风·蒹葭",
+          "excerpt": "蒹葭苍苍",
+          "sourceUrl": "https://zh.wikisource.org/wiki/蒹葭",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "蒹葭并非经种级鉴定的 Phragmites australis，属于水岸植物文化关联。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:magnolia denudata",
+      "scientificName": "Magnolia denudata",
+      "chineseName": "白玉兰",
+      "themeTitle": "洁白的城市早春",
+      "culturalDescription": "白玉兰常在叶片舒展前先开大朵花，远望枝头像停着浅色的鸟。它已成为许多城市早春街景的一部分。这里的文化内容采用现代园林与日常观察视角，不将古诗里笼统的“木兰”“辛夷”强行等同白玉兰。",
+      "culturalSymbolism": [
+        "早春",
+        "洁雅"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "古代木兰、辛夷与现代玉兰等存在名物交叉，现代描述不作古诗物种认定。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:morus alba",
+      "scientificName": "Morus alba",
+      "chineseName": "桑树",
+      "themeTitle": "桑叶与岁月",
+      "culturalDescription": "《诗经·氓》用桑叶由润泽转向枯黄的变化，串起叙事中感情的起落。桑树还与栽桑养蚕、乡村纺织生活紧密相连。不过古文的“桑”未必能精确区分所有桑属树种，这里主要呈现传统桑文化。",
+      "culturalSymbolism": [
+        "蚕桑",
+        "岁月"
+      ],
+      "literaryWorks": [
+        {
+          "author": "佚名",
+          "title": "诗经·卫风·氓",
+          "excerpt": "桑之未落，其叶沃若",
+          "sourceUrl": "https://zh.wikisource.org/wiki/太平御覽/0955",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古“桑”可广指桑属；Morus alba 仅作为典型现代种。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:citrus reticulata",
+      "scientificName": "Citrus reticulata",
+      "chineseName": "橘树",
+      "themeTitle": "南国嘉树",
+      "culturalDescription": "屈原在《橘颂》中赞美橘树坚守一地的生长特性，将植物的地域习性写成人格理想。橘类园艺历史极长、品种复杂；诗中的橘不代表现代某一个柑橘品种，但可作为观看橘树时理解地方文化的切口。",
+      "culturalSymbolism": [
+        "南国",
+        "坚守"
+      ],
+      "literaryWorks": [
+        {
+          "author": "屈原",
+          "title": "楚辞·九章·橘颂",
+          "excerpt": "后皇嘉树，橘徕服兮",
+          "sourceUrl": "https://zh.wikisource.org/wiki/橘頌",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古橘是柑橘类文化名称，不能唯一指为 Citrus reticulata。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:vitis vinifera",
+      "scientificName": "Vitis vinifera",
+      "chineseName": "葡萄",
+      "themeTitle": "边塞杯中的远方",
+      "culturalDescription": "王翰《凉州词》中的葡萄美酒出现在战地送行与宴饮的画面里，葡萄由此成为连接园艺作物、丝路往来与边塞文学的意象。诗句并非植物形态描写，不能据此推断葡萄具体栽培品种。",
+      "culturalSymbolism": [
+        "边塞",
+        "远行"
+      ],
+      "literaryWorks": [
+        {
+          "author": "王翰",
+          "title": "凉州词二首·其一",
+          "excerpt": "葡萄美酒夜光杯",
+          "sourceUrl": "https://zh.wikisource.org/wiki/涼州詞_(葡萄美酒夜光杯)",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "作品出现葡萄制品，并非对某株葡萄的种级鉴定。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:morella rubra",
+      "scientificName": "Morella rubra",
+      "chineseName": "杨梅",
+      "themeTitle": "梅雨季的酸甜",
+      "culturalDescription": "在江南的季节记忆中，杨梅常与初夏、梅雨和短暂的鲜果上市期相连。圆润的红紫色果实也很适合记录从青涩到成熟的色彩变化。这段是依据常见生活经验撰写的现代风物说明，不附尚未核实的古诗或典故。",
+      "culturalSymbolism": [
+        "初夏",
+        "江南"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "现代地区风物文案；传统文学出处与种名映射尚待资料补充。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:diospyros kaki",
+      "scientificName": "Diospyros kaki",
+      "chineseName": "柿树",
+      "themeTitle": "霜后的一点红",
+      "culturalDescription": "柿树从夏日浓荫到秋日挂果，常给庭院带来鲜明的季节变化。“柿”与“事”的谐音也被用于现代吉祥图案。这里介绍的是常见民俗和视觉联想，不把谐音寓意说成所有时代普遍存在的古老习俗。",
+      "culturalSymbolism": [
+        "秋实",
+        "吉祥"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "吉祥谐音属于民俗概述，历史流变和可靠史料尚未核实。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:helianthus annuus",
+      "scientificName": "Helianthus annuus",
+      "chineseName": "向日葵",
+      "themeTitle": "向光而生",
+      "culturalDescription": "向日葵硕大的花盘与随生长阶段变化的朝向，让它成为现代摄影、绘画中常见的明亮意象。它原产美洲，不能把中国古诗里的“葵花”一律理解为向日葵；这张卡片只写现代自然审美，不附错配的古典诗句。",
+      "culturalSymbolism": [
+        "阳光",
+        "成长"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "向日葵与古典“葵”不应混同；此为现代审美文案。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:camellia japonica",
+      "scientificName": "Camellia japonica",
+      "chineseName": "山茶花",
+      "themeTitle": "冬春交接的色彩",
+      "culturalDescription": "当许多树木还在休眠，山茶仍可能在枝头绽开鲜艳花朵，因而适合用来记录冬与春的交接。传统诗文中的“山茶”常与园艺栽培相关，但现代山茶属及品种繁多；本卡只采用通用观察与园艺文化说明。",
+      "culturalSymbolism": [
+        "冬春",
+        "静艳"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "传统山茶题咏涉及多个栽培型，诗文与 Camellia japonica 的种级映射暂未核实。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:wisteria sinensis",
+      "scientificName": "Wisteria sinensis",
+      "chineseName": "紫藤",
+      "themeTitle": "把春天悬在枝头",
+      "culturalDescription": "李白写紫藤攀援高树、花蔓随春伸展的景象，突出枝藤与花序的垂挂之美。现实中紫藤属有多种相近观赏植物，诗里的名称宜视作传统紫藤意象，而不用于识别特定产地的某株藤本。",
+      "culturalSymbolism": [
+        "垂花",
+        "春游"
+      ],
+      "literaryWorks": [
+        {
+          "author": "李白",
+          "title": "紫藤树",
+          "excerpt": "紫藤挂云木",
+          "sourceUrl": "https://zh.wikisource.org/wiki/紫藤樹",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古“紫藤”物种指向未确定，Wisteria sinensis 为现代候选。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:jasminum nudiflorum",
+      "scientificName": "Jasminum nudiflorum",
+      "chineseName": "迎春花",
+      "themeTitle": "春寒里的金色",
+      "culturalDescription": "白居易写迎春花在春寒中开放，以金黄花色强调早春的鲜明与惊喜。现代园林常见迎春，也常让人联想到冬末转暖的节奏。不过诗中的古代迎春花不宜仅凭题目就认定为现代植物学某一个种。",
+      "culturalSymbolism": [
+        "早春",
+        "希望"
+      ],
+      "literaryWorks": [
+        {
+          "author": "白居易",
+          "title": "玩迎春花赠杨郎中",
+          "excerpt": "金英翠萼带春寒",
+          "sourceUrl": "https://zh.wikisource.org/wiki/玩迎春花贈楊郎中",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "诗中迎春名物与 Jasminum nudiflorum 的对应需要进一步核实。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:syringa oblata",
+      "scientificName": "Syringa oblata",
+      "chineseName": "丁香",
+      "themeTitle": "春风里的未解之结",
+      "culturalDescription": "李商隐写“丁香结”，借花蕾紧结的形态表现难以排解的愁绪。这种借形抒情的方式后来成为常见的文学表达。丁香属有多个物种，古诗中的丁香还存在香料等不同指代，不能凭诗句认定为现代紫丁香。",
+      "culturalSymbolism": [
+        "幽思",
+        "春愁"
+      ],
+      "literaryWorks": [
+        {
+          "author": "李商隐",
+          "title": "代赠二首·其一",
+          "excerpt": "芭蕉不展丁香结",
+          "sourceUrl": "https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/草木典/第301卷",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "丁香既可指花木也有香料名混用；不能唯一归属 Syringa oblata。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:prunus serrulata",
+      "scientificName": "Prunus serrulata",
+      "chineseName": "樱花",
+      "themeTitle": "花期短暂的约定",
+      "culturalDescription": "樱花盛开往往吸引人们在公园里相聚，花瓣随风散落又使观赏带上一点短暂之美。这里重点记录现代城市赏花文化，而非把东亚所有樱花都视作同一种；观赏樱包含众多物种及园艺品种。",
+      "culturalSymbolism": [
+        "春游",
+        "惜时"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "现代赏樱文案；Prunus serrulata 是一类代表性樱花，不代表全部樱花。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:metasequoia glyptostroboides",
+      "scientificName": "Metasequoia glyptostroboides",
+      "chineseName": "水杉",
+      "themeTitle": "从化石到活树",
+      "culturalDescription": "水杉曾以化石材料为人所知，后来在中国发现现生个体，成为近现代植物学史上的重要故事。研究指出王战于1943年采到关键标本，胡先骕、郑万钧于1948年发表该种。它把一棵行道树与科学发现联系起来，适合做城市自然教育内容。",
+      "culturalSymbolism": [
+        "科学发现",
+        "时间"
+      ],
+      "literaryWorks": [
+        {
+          "author": "钱宏、邵国凡、刘琪璟",
+          "title": "水杉发现的历史",
+          "excerpt": "1943年发现现生水杉",
+          "sourceUrl": "https://www.biodiversity-science.net/CN/abstract/article/1005-0094/100807",
+          "sourceType": "historical_text_or_modern_research_page"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "近现代科学史文献，并非古典诗词；研究文章为史实依据。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:lonicera japonica",
+      "scientificName": "Lonicera japonica",
+      "chineseName": "金银花",
+      "themeTitle": "一藤两色的花",
+      "culturalDescription": "金银花的花朵常由浅色转向金黄，花色并存使它在庭院中具有辨识度。传统生活中又常把它与“忍冬”的名称联系起来。不过传统本草的名称覆盖范围需要校勘；本卡不提供药效建议，也不把历史药用记述当成现代医学证据。",
+      "culturalSymbolism": [
+        "清芬",
+        "忍冬"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "仅作文化名称与自然观察说明；传统药用记录需独立核对，禁止推导医疗功效。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:hosta plantaginea",
+      "scientificName": "Hosta plantaginea",
+      "chineseName": "玉簪花",
+      "themeTitle": "坠落人间的玉簪",
+      "culturalDescription": "黄庭坚咏玉簪，把花形想象成仙人遗落的簪饰，恰好点明含苞花序的纤秀线条。这种以饰物解释花形的写法，为日常园艺赋予神话般的想象。古代玉簪花名虽相对具体，仍不能直接判定每株植物的现代学名。",
+      "culturalSymbolism": [
+        "素雅",
+        "花形"
+      ],
+      "literaryWorks": [
+        {
+          "author": "黄庭坚",
+          "title": "玉簪",
+          "excerpt": "玉簪堕地无人拾",
+          "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷047",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古代玉簪观赏型与现代 Hosta plantaginea 的范围仍需考证。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:ipomoea nil",
+      "scientificName": "Ipomoea nil",
+      "chineseName": "牵牛花",
+      "themeTitle": "清晨开放的小喇叭",
+      "culturalDescription": "牵牛花在晨间打开漏斗形花冠，随后随日光与气温变化而改变状态，适合反复拍摄记录。它的中文名容易令人想到牛郎织女，但名字相似不等于植物与七夕传说存在明确的古典对应关系；这是一张现代自然观察卡。",
+      "culturalSymbolism": [
+        "清晨",
+        "短暂"
+      ],
+      "literaryWorks": [],
+      "taxonomySource": null,
+      "matchNote": "不把牵牛星传说直接归于牵牛花；属于现代观察文字。",
+      "verificationStatus": "model_draft_unverified",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": false,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "模型知识撰写的编辑草稿；未完成独立来源核查",
+      "imageAsset": null,
+      "contentOrigin": "model_knowledge_draft",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "needs_botanical_review"
+    },
+    {
+      "speciesKey": "scientific:brassica napus",
+      "scientificName": "Brassica napus",
+      "chineseName": "油菜花",
+      "themeTitle": "黄蝶藏进春田",
+      "culturalDescription": "杨万里诗中儿童追黄蝶、蝴蝶飞入菜花的场景，写出乡野春天的活泼气息。现代油菜花田也常形成金黄花海，但古诗中的“菜花”没有种级标本证据，不能精确认定为今日栽培油菜这一物种。",
+      "culturalSymbolism": [
+        "春田",
+        "童趣"
+      ],
+      "literaryWorks": [
+        {
+          "author": "杨万里",
+          "title": "宿新市徐公店二首·其一",
+          "excerpt": "飞入菜花无处寻",
+          "sourceUrl": "https://zh.wikisource.org/wiki/宿新市徐公店二首",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古诗“菜花”可能泛指十字花科农作物，不可断言 Brassica napus。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:liquidambar formosana",
+      "scientificName": "Liquidambar formosana",
+      "chineseName": "枫香",
+      "themeTitle": "深秋红叶的层次",
+      "culturalDescription": "杜牧写“枫林晚”，让霜后红叶成为秋山的视觉中心。今天枫香也会在冷季呈现多层次叶色，非常适合四季连续摄影。但“枫”在古典语言里未必对应某一现代枫香种，诗句所支持的是红叶意象。",
+      "culturalSymbolism": [
+        "秋色",
+        "山行"
+      ],
+      "literaryWorks": [
+        {
+          "author": "杜牧",
+          "title": "山行",
+          "excerpt": "停车坐爱枫林晚",
+          "sourceUrl": "https://zh.wikisource.org/wiki/山行_(杜牧)",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "古“枫林”泛称，不足以判定 Liquidambar formosana。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    },
+    {
+      "speciesKey": "scientific:cercis chinensis",
+      "scientificName": "Cercis chinensis",
+      "chineseName": "紫荆",
+      "themeTitle": "同根与手足",
+      "culturalDescription": "传统“紫荆树”故事把兄弟分家与树木枯荣联系起来，用一树同根比喻亲情相守。故事出现在古代笔记及后世戏曲中，是文学寓言而非植物生理事实。叙事中的“荆树”也不能直接作为 Cercis chinensis 的种级鉴定。",
+      "culturalSymbolism": [
+        "手足",
+        "同根"
+      ],
+      "literaryWorks": [
+        {
+          "author": "佚名（故事传承）",
+          "title": "续齐谐记相关紫荆故事（见后世类书转述）",
+          "excerpt": "兄弟分树而树枯",
+          "sourceUrl": "https://zh.wikisource.org/wiki/御定分類字錦_(四庫全書本)/卷12",
+          "sourceType": "historical_text_index"
+        }
+      ],
+      "taxonomySource": null,
+      "matchNote": "故事源流尚需继续校勘；植物同根是文学隐喻，不能据此确定现代紫荆种。",
+      "verificationStatus": "literary_source_checked_taxon_pending",
+      "publicationStatus": "approved_for_publication",
+      "poetrySourceChecked": true,
+      "taxonSourceChecked": false,
+      "manualBotanicalIdentification": false,
+      "contentAttribution": "自撰文化说明；文献摘录已检索到具体页面，植物学对应尚待核实",
+      "imageAsset": null,
+      "contentOrigin": "model_written_plus_external_source",
+      "safeForAutomaticSpeciesMatch": false,
+      "citationScope": "cultural_name_or_genus_not_verified_to_species"
+    }
+  ]
+}

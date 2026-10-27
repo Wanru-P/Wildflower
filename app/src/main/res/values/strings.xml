@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">草木知时</string>
+    <string name="tab_identify">识别</string>
+    <string name="tab_plants">花园</string>
+    <string name="tab_care">养护</string>
+    <string name="tab_map">地图</string>
+    <string name="privacy_badge">离线 · 本机识别</string>
+    <string name="notification_channel_care">植物养护提醒</string>
+
+    <!-- Care screen -->
+    <string name="care_section_overdue">待补浇</string>
+    <string name="care_section_today">今天</string>
+    <string name="care_section_this_week">本周</string>
+    <string name="care_banner_title">开启养护提醒</string>
+    <string name="care_banner_body">在需要浇水时，收到一条轻柔的提醒。</string>
+    <string name="care_banner_action">开启</string>
+    <string name="care_empty_title">暂时无需浇水</string>
+    <string name="care_empty_body">植物的日常，慢慢记录。</string>
+</resources>

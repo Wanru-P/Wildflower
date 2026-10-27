@@ -1,0 +1,13 @@
+{
+  "_id": "global-v1",
+  "schemaVersion": 1,
+  "day": "",
+  "dailyRequests": 0,
+  "dailyMilli": 0,
+  "totalMilli": 0,
+  "sessionIssues": 0,
+  "issueInstalls": {},
+  "issueIps": {},
+  "installCalls": {},
+  "leases": {}
+}

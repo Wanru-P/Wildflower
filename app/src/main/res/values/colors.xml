@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Only used for launcher icon + window background. All UI color comes from ui/theme/Color.kt -->
+    <color name="forest_green">#1B4332</color>
+    <color name="cream">#F7FAF2</color>
+</resources>

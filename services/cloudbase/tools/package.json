@@ -1,0 +1,6 @@
+{
+  "name": "wildflower-cloudbase-deployment-tools",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@cloudbase/manager-node": "5.9.1" }
+}

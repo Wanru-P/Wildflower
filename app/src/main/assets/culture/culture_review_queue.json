@@ -1,0 +1,171 @@
+{
+  "schemaVersion": "wildflower-culture-review-v1",
+  "reviewQueue": [
+    {
+      "culturalName": "月季",
+      "candidateScientificName": "Rosa chinensis",
+      "candidateTaxonomySource": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A732029-1",
+      "literaryWork": {
+        "author": "杨万里",
+        "title": "月季花",
+        "excerpt": "只道花无十日红",
+        "sourceUrl": "https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/草木典/第119卷"
+      },
+      "reason": "古代“月季”多为栽培花群，不能仅凭诗名断定就是现代单一 Rosa chinensis 物种。",
+      "status": "requires_taxonomic_association_review",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "梧桐",
+      "candidateScientificName": "Firmiana simplex",
+      "candidateTaxonomySource": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A823357-1",
+      "literaryWork": {
+        "author": "李清照",
+        "title": "声声慢",
+        "excerpt": "梧桐更兼细雨",
+        "sourceUrl": "https://zh.wikisource.org/wiki/宋詞三百首"
+      },
+      "reason": "古典梧桐与现代植物命名存在辨识风险，不应在未经物种层面考证时精确绑定。",
+      "status": "requires_taxonomic_association_review",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "菊",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": {
+        "sourceUrl": "https://zh.wikisource.org/wiki/飲酒二十首"
+      },
+      "reason": "古典“菊”常指栽培菊群，并非可由单一学名覆盖",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "柳",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": {
+        "sourceUrl": "https://zh.wikisource.org/wiki/詠柳_(賀知章)"
+      },
+      "reason": "“柳”可指多种柳属植物，诗词不提供物种辨别特征",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "松",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": {
+        "sourceUrl": "https://zh.wikisource.org/wiki/飲酒二十首"
+      },
+      "reason": "青松属较宽泛文化概念，不能直接归给马尾松等具体松种",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "竹",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "古文中的“竹”覆盖众多竹类，尚需物种级证据",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "牡丹",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": {
+        "sourceUrl": "https://zh.wikisource.org/wiki/愛蓮說"
+      },
+      "reason": "园艺牡丹包含复杂栽培谱系，不宜直接绑定任意单一拉丁种名",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "海棠",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": {
+        "sourceUrl": "https://zh.wikisource.org/wiki/廣羣芳譜/卷036"
+      },
+      "reason": "古籍中的“海棠”有多个园艺与植物学指代",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "兰",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "古典“兰”与现代兰科某个单一种的对应不能一概而论",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "杜鹃花",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "多种杜鹃属植物共享该文化俗名",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "芍药",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "文献中芍药常指栽培类群，特定学名需要核对",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "萱草",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": {
+        "sourceUrl": "https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/草木典/第071卷"
+      },
+      "reason": "多种萱草属植物与忘忧文化相关，不能强行绑定一种",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "梨花",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "多种梨属果树均可开梨花，古诗缺乏物种区分",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "水仙",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "“水仙”在传统语境和现代园艺分类中均存在跨种与品种差异",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "芦苇",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "《诗经》蒹葭一类传统词语不宜直接等同某单一芦苇种",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    },
+    {
+      "culturalName": "玉兰",
+      "candidateScientificName": null,
+      "candidateTaxonomySource": null,
+      "literaryWork": null,
+      "reason": "诗文中的木兰、玉兰、辛夷常有用词交叉，需单独核对",
+      "status": "requires_primary_research",
+      "speciesKey": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name = "wildflower-nature"
+main = "worker.mjs"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[vars]
+# Set to false in the Cloudflare dashboard for an immediate fail-closed stop.
+# It is enabled here only after the deployed Worker, Secret and unauthenticated
+# route checks have passed.
+AI_ENABLED = "true"
+# Limits are server-owned and can be tightened in the Cloudflare dashboard
+# without publishing a new Android APK. Values are in milli-CNY.
+DAILY_REQUEST_LIMIT = "100"
+INSTALL_DAILY_LIMIT = "20"
+GLOBAL_CONCURRENT_LIMIT = "3"
+DAILY_BUDGET_MILLI_CNY = "1000"
+TOTAL_BUDGET_MILLI_CNY = "10000"
+NATURE_RESERVATION_MILLI_CNY = "5"
+CHAT_RESERVATION_MILLI_CNY = "20"
+SESSION_TTL_SECONDS = "21600"
+SESSION_ISSUES_PER_IP_DAY = "8"
+SESSION_ISSUES_PER_INSTALL_DAY = "4"
+
+[[durable_objects.bindings]]
+name = "NATURE_GATE"
+class_name = "NatureRateGate"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["NatureRateGate"]
+
+# Set DEEPSEEK_API_KEY with `wrangler secret put DEEPSEEK_API_KEY`; never put it
+# in vars or Android. Sessions are issued by the durable object and expire.

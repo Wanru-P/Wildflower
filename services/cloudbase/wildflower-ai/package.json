@@ -1,0 +1,9 @@
+{
+  "name": "wildflower-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20.19.0" },
+  "scripts": { "start": "node index.mjs" },
+  "dependencies": { "@cloudbase/node-sdk": "3.18.3" }
+}

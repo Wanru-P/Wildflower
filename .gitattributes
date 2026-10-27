@@ -1,0 +1,12 @@
+# Preserve the supplied Phase 3 originals and their SHA-256 checksums on Windows.
+# Do not change line-ending conventions for unrelated application source files.
+app/src/main/assets/culture/*.json -text
+docs/Wildflower_Phase3_All_In_One/phase3_handoff/data/* -text
+docs/Wildflower_Phase3_All_In_One/phase3_handoff/PHASE3_CODEX_INSTRUCTIONS.md -text
+docs/Wildflower_Phase3_All_In_One/phase3_handoff/README_FIRST.md -text
+# Supplied V2 vector bytes participate in the asset manifest checksums.
+app/src/main/res/drawable/wf_icon_*.xml text eol=lf
+*.zip filter=lfs diff=lfs merge=lfs -text
+docs/wildflower/evidence/**/*.png filter=lfs diff=lfs merge=lfs -text
+final-screenshots/*.png filter=lfs diff=lfs merge=lfs -text
+navigation-flow/*.png filter=lfs diff=lfs merge=lfs -text

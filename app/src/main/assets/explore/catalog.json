@@ -1,0 +1,5 @@
+[
+  {"id":"osmanthus","name":"桂花","scientific":"Osmanthus fragrans","common":"Sweet Osmanthus","image":"osmanthus_kenraiz.jpg","season":"autumn","summary":"细小的花藏在常绿叶间，浓郁的香气往往先于花朵被发现。","habit":"常绿灌木","family":"木犀科","bloom":"春季与秋季，因栽培品种及气候而异","source":"https://plants.ces.ncsu.edu/plants/osmanthus-fragrans/","credit":"Krzysztof Ziarnek, Kenraiz · CC BY-SA 4.0"},
+  {"id":"ginkgo","name":"银杏","scientific":"Ginkgo biloba","common":"Maidenhair Tree","image":"ginkgo.jpg","season":"summer","summary":"扇形叶片与舒展的枝条，记录着一株落叶乔木的季节变化。秋天，叶色转为金黄。","habit":"落叶乔木","family":"银杏科","bloom":"观察重点：扇形叶与秋色","source":"https://plants.ces.ncsu.edu/plants/ginkgo-biloba/","credit":"Urutseg · CC BY-SA 3.0"},
+  {"id":"camellia","name":"山茶","scientific":"Camellia japonica","common":"Japanese Camellia","image":"camellia_pumpkinsky.jpg","season":"winter","summary":"深绿叶片映衬层叠花瓣，常绿灌木在冬春之交展露花色。","habit":"常绿灌木","family":"山茶科","bloom":"冬季至春季，因品种与气候而异","source":"https://plants.ces.ncsu.edu/plants/camellia-japonica/","credit":"PumpkinSky · CC BY-SA 3.0"}
+]

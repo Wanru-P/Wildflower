@@ -1,0 +1,407 @@
+{
+  "schemaVersion": "wildflower-species-seed-v2",
+  "speciesCount": 50,
+  "species": [
+    {
+      "speciesKey": "scientific:osmanthus fragrans",
+      "scientificName": "Osmanthus fragrans",
+      "chineseName": "桂花",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A610878-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:prunus mume",
+      "scientificName": "Prunus mume",
+      "chineseName": "梅花",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A730000-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:nelumbo nucifera",
+      "scientificName": "Nelumbo nucifera",
+      "chineseName": "荷花",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A605422-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:prunus persica",
+      "scientificName": "Prunus persica",
+      "chineseName": "桃花",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/1212858-2"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:punica granatum",
+      "scientificName": "Punica granatum",
+      "chineseName": "石榴",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/554129-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:ginkgo biloba",
+      "scientificName": "Ginkgo biloba",
+      "chineseName": "银杏",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A262125-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:gardenia jasminoides",
+      "scientificName": "Gardenia jasminoides",
+      "chineseName": "栀子",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A751073-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:chimonanthus praecox",
+      "scientificName": "Chimonanthus praecox",
+      "chineseName": "蜡梅",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/139248-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:prunus armeniaca",
+      "scientificName": "Prunus armeniaca",
+      "chineseName": "杏花",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/729463-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:lagerstroemia indica",
+      "scientificName": "Lagerstroemia indica",
+      "chineseName": "紫薇",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A553576-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:camellia sinensis",
+      "scientificName": "Camellia sinensis",
+      "chineseName": "茶树",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/828548-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:litchi chinensis",
+      "scientificName": "Litchi chinensis",
+      "chineseName": "荔枝",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A783539-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:ziziphus jujuba",
+      "scientificName": "Ziziphus jujuba",
+      "chineseName": "枣树",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/719213-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:jasminum sambac",
+      "scientificName": "Jasminum sambac",
+      "chineseName": "茉莉",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A609755-1/general-information"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:hibiscus syriacus",
+      "scientificName": "Hibiscus syriacus",
+      "chineseName": "木槿",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A560890-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:hibiscus mutabilis",
+      "scientificName": "Hibiscus mutabilis",
+      "chineseName": "木芙蓉",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A560549-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:eriobotrya japonica",
+      "scientificName": "Eriobotrya japonica",
+      "chineseName": "枇杷",
+      "taxonomySource": {
+        "organization": "Royal Botanic Gardens, Kew — POWO",
+        "url": "https://powo.science.kew.org/taxon/724793-1"
+      },
+      "reviewStatus": "source_checked_editorial_pending"
+    },
+    {
+      "speciesKey": "scientific:rosa chinensis",
+      "scientificName": "Rosa chinensis",
+      "chineseName": "月季",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:firmiana simplex",
+      "scientificName": "Firmiana simplex",
+      "chineseName": "梧桐",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:chrysanthemum × morifolium",
+      "scientificName": "Chrysanthemum × morifolium",
+      "chineseName": "菊花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:salix babylonica",
+      "scientificName": "Salix babylonica",
+      "chineseName": "垂柳",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:phyllostachys edulis",
+      "scientificName": "Phyllostachys edulis",
+      "chineseName": "毛竹",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:paeonia suffruticosa",
+      "scientificName": "Paeonia suffruticosa",
+      "chineseName": "牡丹",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:malus spectabilis",
+      "scientificName": "Malus spectabilis",
+      "chineseName": "海棠花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:cymbidium goeringii",
+      "scientificName": "Cymbidium goeringii",
+      "chineseName": "春兰",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:rhododendron simsii",
+      "scientificName": "Rhododendron simsii",
+      "chineseName": "映山红",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:paeonia lactiflora",
+      "scientificName": "Paeonia lactiflora",
+      "chineseName": "芍药",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:hemerocallis fulva",
+      "scientificName": "Hemerocallis fulva",
+      "chineseName": "萱草",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:pyrus pyrifolia",
+      "scientificName": "Pyrus pyrifolia",
+      "chineseName": "梨树",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:narcissus tazetta",
+      "scientificName": "Narcissus tazetta",
+      "chineseName": "中国水仙",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:phragmites australis",
+      "scientificName": "Phragmites australis",
+      "chineseName": "芦苇",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:magnolia denudata",
+      "scientificName": "Magnolia denudata",
+      "chineseName": "白玉兰",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:morus alba",
+      "scientificName": "Morus alba",
+      "chineseName": "桑树",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:citrus reticulata",
+      "scientificName": "Citrus reticulata",
+      "chineseName": "橘树",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:vitis vinifera",
+      "scientificName": "Vitis vinifera",
+      "chineseName": "葡萄",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:morella rubra",
+      "scientificName": "Morella rubra",
+      "chineseName": "杨梅",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:diospyros kaki",
+      "scientificName": "Diospyros kaki",
+      "chineseName": "柿树",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:helianthus annuus",
+      "scientificName": "Helianthus annuus",
+      "chineseName": "向日葵",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:camellia japonica",
+      "scientificName": "Camellia japonica",
+      "chineseName": "山茶花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:wisteria sinensis",
+      "scientificName": "Wisteria sinensis",
+      "chineseName": "紫藤",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:jasminum nudiflorum",
+      "scientificName": "Jasminum nudiflorum",
+      "chineseName": "迎春花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:syringa oblata",
+      "scientificName": "Syringa oblata",
+      "chineseName": "丁香",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:prunus serrulata",
+      "scientificName": "Prunus serrulata",
+      "chineseName": "樱花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:metasequoia glyptostroboides",
+      "scientificName": "Metasequoia glyptostroboides",
+      "chineseName": "水杉",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:lonicera japonica",
+      "scientificName": "Lonicera japonica",
+      "chineseName": "金银花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:hosta plantaginea",
+      "scientificName": "Hosta plantaginea",
+      "chineseName": "玉簪花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:ipomoea nil",
+      "scientificName": "Ipomoea nil",
+      "chineseName": "牵牛花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:brassica napus",
+      "scientificName": "Brassica napus",
+      "chineseName": "油菜花",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:liquidambar formosana",
+      "scientificName": "Liquidambar formosana",
+      "chineseName": "枫香",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    },
+    {
+      "speciesKey": "scientific:cercis chinensis",
+      "scientificName": "Cercis chinensis",
+      "chineseName": "紫荆",
+      "taxonomySource": null,
+      "reviewStatus": "botanical_name_and_cultural_name_match_pending"
+    }
+  ]
+}

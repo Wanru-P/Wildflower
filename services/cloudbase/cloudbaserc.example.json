@@ -1,0 +1,24 @@
+{
+  "envId": "REPLACE_WITH_FULL_ENVIRONMENT_ID",
+  "region": "ap-shanghai",
+  "functions": [{
+    "name": "wildflower-ai",
+    "type": "HTTP",
+    "dir": "wildflower-ai",
+    "runtime": "Nodejs20.19",
+    "timeout": 60,
+    "memorySize": 256,
+    "instanceConcurrencyConfig": { "maxConcurrency": 3, "dynamicEnabled": "FALSE" },
+    "envVariables": {
+      "NODE_ENV": "production",
+      "AI_ENABLED": "false",
+      "DEEPSEEK_MODEL": "deepseek-flash",
+      "PUBLIC_BASE_PATH": "/wildflower-ai",
+      "DAILY_REQUEST_LIMIT": "100",
+      "INSTALL_DAILY_LIMIT": "20",
+      "GLOBAL_CONCURRENT_LIMIT": "3",
+      "DAILY_BUDGET_MILLI_CNY": "1000",
+      "TOTAL_BUDGET_MILLI_CNY": "10000"
+    }
+  }]
+}

@@ -1,0 +1,8 @@
+[
+  { "scientificName": "Monstera deliciosa", "commonName": "Swiss cheese plant", "defaultWaterIntervalDays": 7, "light": "bright-indirect" },
+  { "scientificName": "Epipremnum aureum", "commonName": "Pothos", "defaultWaterIntervalDays": 8, "light": "low-to-bright" },
+  { "scientificName": "Sansevieria trifasciata", "commonName": "Snake plant", "defaultWaterIntervalDays": 14, "light": "low-to-bright" },
+  { "scientificName": "Ficus lyrata", "commonName": "Fiddle-leaf fig", "defaultWaterIntervalDays": 7, "light": "bright-indirect" },
+  { "scientificName": "Spathiphyllum", "commonName": "Peace lily", "defaultWaterIntervalDays": 5, "light": "medium" },
+  { "scientificName": "Senecio rowleyanus", "commonName": "String of pearls", "defaultWaterIntervalDays": 12, "light": "bright" }
+]

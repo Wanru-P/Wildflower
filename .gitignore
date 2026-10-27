@@ -1,0 +1,52 @@
+*.iml
+.gradle/
+.kotlin/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+app.zip
+
+# Local secrets and signing material
+.env
+.env.*
+secrets.properties
+keystore.properties
+signing.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+
+# Local Python tooling caches (not delivery material)
+__pycache__/
+*.py[cod]
+.dev.vars
+.dev.vars.*
+.wrangler/
+node_modules/
+services/nature-proxy/.local-token
+
+# Local review-tool state and accidentally-created package-manager cache
+.workbuddy-ai/
+%LOCALAPPDATA%/
+
+# Generated release packages and duplicate presentation exports. Source assets and
+# documentation that live in the project remain tracked; these files can be
+# recreated or retained locally without bloating the repository.
+deliverables/
+/Wildflower_Presentation_Assets/
+/Wildflower_Presentation_Assets*.zip
+
+# Keep the large, generated visual-verification archive locally. The repository
+# publishes the runnable source, tests, configuration, and core documentation.
+/docs/
+/final-delivery/
+/final-screenshots/
+/navigation-flow/
