@@ -16,9 +16,15 @@ or *fully on-device* where no photo ever leaves your phone.
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="reference.png" alt="Wildflower Lens app screens: explore, identify, plant culture, poetry, garden, seasons, and observation map" width="100%"/>
-</p>
+Screens captured from the running Android build:
+
+| Explore | Identify | My garden |
+|---|---|---|
+| <img src="assets/screenshots/explore-home.png" alt="Wildflower explore screen" width="220"/> | <img src="assets/screenshots/identification-result.png" alt="Plant identification result" width="220"/> | <img src="assets/screenshots/my-garden.png" alt="My garden screen" width="220"/> |
+
+| Plant culture | Poetry notebook |
+|---|---|
+| <img src="assets/screenshots/culture.png" alt="Plant culture screen" width="220"/> | <img src="assets/screenshots/poetry-editor.png" alt="Plant poetry notebook" width="220"/> |
 
 ## ✨ Features
 
