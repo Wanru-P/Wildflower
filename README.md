@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- TODO(M10): docs/banner.png — 1280x400 collage of 3 phone frames on the cream (#F7FAF2) background
-<img src="docs/banner.png" alt="FloraLens banner" width="100%"/>
--->
-
 # 🌿 Wildflower
 
 **Identify plants with your camera — on your terms.**
@@ -20,13 +16,9 @@ or *fully on-device* where no photo ever leaves your phone.
 
 ## 📸 Screenshots
 
-| Identify | Result | My Plants | Care |
-|---|---|---|---|
-| <img src="docs/screen-identify.png" width="200"/> | <img src="docs/screen-result.png" width="200"/> | <img src="docs/screen-plants.png" width="200"/> | <img src="docs/screen-care.png" width="200"/> |
-
-| Species explorer | Offline copy | Leaf health + AI | Offline garden map |
-|---|---|---|---|
-| <img src="docs/screen-details-map.png" width="200"/> | <img src="docs/screen-details-offline.png" width="200"/> | <img src="docs/screen-leaf-ai.png" width="200"/> | <img src="docs/screen-garden-map.png" width="200"/> |
+<p align="center">
+  <img src="reference.png" alt="Wildflower Lens app screens: explore, identify, plant culture, poetry, garden, seasons, and observation map" width="100%"/>
+</p>
 
 ## ✨ Features
 
